@@ -1,0 +1,10 @@
+boatbody = 768 96 128 64
+eye = 960 0 32 32
+eyeleft = 768 160 96 96
+eyeright = 512 416 96 96
+head = 512 352 128 64
+linkbody = 768 0 160 96
+mouth = 512 256 192 96
+sail = 512 0 256 256
+sheath = 928 0 32 128
+water = 0 0 512 512
